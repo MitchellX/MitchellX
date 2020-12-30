@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on face-swapping or deepfakes
-- 🌱 I’m currently working on face-beauty
+- 🌱 I’m currently working on talking face or digital man
+
 <!--
 **MitchellX/MitchellX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
