@@ -2,6 +2,14 @@
 - 🔭 I’m currently working on face-swapping or deepfakes
 - 🌱 I’m currently working on talking face or digital man
 
+### new!
+We sincerely invite academic and industrial practitioners to participate in the 
+
+**3rd Grand Challenge of 106-Point Facial Landmark Localization @ICME 2021**
+
+
+
+
 <!--
 **MitchellX/MitchellX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
