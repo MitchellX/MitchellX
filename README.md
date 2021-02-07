@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on face-swapping or deepfakes
-- 🌱 I’m currently working on talking face or digital man
+- 🌱 I’m currently working on audio-driven facing animation & face beauty
 
 ### News!
 We sincerely invite academic and industrial practitioners to participate in the **3rd Grand Challenge of 106-Point Facial Landmark Localization @ICME 2021:**
