@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MitchellX=anuraghazra&count_private=true)
+![MitchellX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitchellX&show_icons=true&theme=radical)
 
 ### Hi there 👋
 - 🔭 I’m currently working on face-swapping or deepfakes
