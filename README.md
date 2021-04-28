@@ -1,4 +1,3 @@
-
 ### Hi there 👋
 - 🔭 I’m currently working on face-swapping or deepfakes
 - 🌱 I’m currently working on audio-driven facing animation & face beauty
@@ -6,10 +5,6 @@
 ### News!
 We sincerely invite academic and industrial practitioners to participate in the **3rd Grand Challenge of 106-Point Facial Landmark Localization @ICME 2021:**
 https://fllc3-icme2021.github.io/
-
-![MitchellX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitchellX&show_icons=true&theme=radical)
-
-
 
 <!--
 **MitchellX/MitchellX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
