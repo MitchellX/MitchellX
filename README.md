@@ -1,3 +1,5 @@
+<a href="https://github.com/gezp"><img align='right' src="https://github-readme-stats.vercel.app/api?username=gezp&show_icons=true"></a>
+
 ### Hi there 👋
 - 🔭 I’m currently working on face-swapping or deepfakes
 - 🌱 I’m currently working on audio-driven facing animation & face beauty
