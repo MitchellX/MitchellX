@@ -1,6 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on face-swapping or deepfakes
-- 🌱 I’m currently working on audio-driven facing animation & face beauty
+- 😄 I’m currently working in Autonomous Driving related areas, and do some really cool staffs.
+- 
+- 🔭 I use to work in face-swapping or deepfakes
+- 🌱 I use to work in audio-driven facing animation & face beauty
 
 ### News!
 We sincerely invite academic and industrial practitioners to participate in the **3rd Grand Challenge of 106-Point Facial Landmark Localization @ICME 2021:**
