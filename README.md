@@ -4,10 +4,11 @@
 - 🔭 I use to work in face-swapping or deepfakes
 - 🌱 I use to work in audio-driven facing animation & face beauty
 
-### News!
+<!-- ### News!
 We sincerely invite academic and industrial practitioners to participate in the **3rd Grand Challenge of 106-Point Facial Landmark Localization @ICME 2021:**
 https://fllc3-icme2021.github.io/
-
+ -->
+ 
 <!--
 **MitchellX/MitchellX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
