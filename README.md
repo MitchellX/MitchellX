@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 I’m currently working in Autonomous Driving related areas, and do some really cool staffs.
-- 
+
 - 🔭 I use to work in face-swapping or deepfakes
 - 🌱 I use to work in audio-driven facing animation & face beauty
 
