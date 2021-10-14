@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 😄 I’m currently working in Autonomous Driving related areas, and do some really cool staffs.
-
+- 😄 I’m currently working in Multi-task learning and model compression.
 - 🔭 I used to work in face-swapping or deepfakes
 - 🌱 I used to work in audio-driven facing animation & face beauty
 
