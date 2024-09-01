@@ -1,7 +1,8 @@
 ### Hi there 👋
-- 😄 I’m currently working in Multi-task learning and model compression.
-- 🔭 I used to work in face-swapping or deepfakes
-- 🌱 I used to work in audio-driven facing animation & face beauty
+- 💬 I’m currently working in lifetime-based GPU memory management.
+- 😄 I used to work in Multi-task learning and model compression.
+- 🔭 I used to work in face-swapping or deepfakes.
+- 🌱 I used to work in audio-driven facing animation & face beauty.
 
 <!-- ### News!
 We sincerely invite academic and industrial practitioners to participate in the **3rd Grand Challenge of 106-Point Facial Landmark Localization @ICME 2021:**
