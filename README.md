@@ -1,25 +1,30 @@
-### Hi there 👋
-- 💬 I’m currently working in lifetime-based GPU memory management.
-- 😄 I used to work in Multi-task learning and model compression.
-- 🔭 I used to work in face-swapping or deepfakes.
-- 🌱 I used to work in audio-driven facing animation & face beauty.
+## Hey, I'm Mingcan (Mitchell) 👋
 
-<!-- ### News!
-We sincerely invite academic and industrial practitioners to participate in the **3rd Grand Challenge of 106-Point Facial Landmark Localization @ICME 2021:**
-https://fllc3-icme2021.github.io/
- -->
- 
-<!--
-**MitchellX/MitchellX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD @ UMass Amherst → MLE @ Adobe
 
-Here are some ideas to get you started:
+I build systems that make deep learning models faster and smaller — from [pruning multi-task networks](https://github.com/MitchellX/AdapMTL) to [accelerating video diffusion transformers](https://github.com/MitchellX/LightningDiT).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research
+
+- **Efficient Generative Models** — sparse attention, linear attention, and inference acceleration for image/video diffusion transformers
+- **Multi-Task Learning** — adaptive pruning frameworks for jointly-trained models ([AdapMTL](https://github.com/MitchellX/AdapMTL), ACM MM '24)
+- **Model Compression** — structured pruning, quantization, knowledge distillation
+
+### 🤖 Power User: 8 AI Agents Working for Me 24/7
+
+<img src="./assets/agents_banner.png" alt="8 Agents · 3 AI Engines · 24/7" width="100%"/>
+
+I run a fleet of 8 specialized AI agents on [OpenClaw](https://github.com/openclaw/openclaw) that orchestrate **Claude, Codex, and Gemini** to handle my daily workflow autonomously.
+
+They dispatch coding tasks to remote GPU clusters, monitor my inbox, write research reports, review PRs, and sync everything to Notion — while I sleep.
+
+> *The best AI setup isn't the smartest model — it's the best memory, tools, and orchestration around it.*
+
+### 📄 Selected Publications
+
+- **LinStat**: Sparse–Linear Attention for Diffusion Transformers — *ECCV 2026*
+- **AdapMTL**: Adaptive Pruning Framework for Multitask Learning Model — *ACM MM 2024*
+
+### 🛠️ Tech Stack
+
+`PyTorch` `CUDA` `Diffusion Models` `Transformers` `Video Generation` `HPC (Slurm)` `OpenClaw` `Claude Code` `Codex`
