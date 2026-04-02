@@ -12,7 +12,7 @@ I build systems that make models faster and smaller — from pruning multi-task 
 
 <img src="./assets/agents_banner.png" alt="8 Agents · 3 AI Engines · 24/7" width="100%"/>
 
-I run a fleet of 8 specialized AI agents on [OpenClaw](https://github.com/openclaw/openclaw) that orchestrate **Claude, Codex, and Gemini** to handle my daily workflow autonomously.
+I run a fleet of 8 specialized AI agents on [OpenClaw](https://github.com/openclaw/openclaw) that orchestrate **Claude, Codex, and Gemini** CLI to handle my daily workflow autonomously.
 
 They dispatch coding tasks to remote GPU clusters, monitor my inbox, write research reports, review PRs, and sync everything to Notion — while I sleep.
 
