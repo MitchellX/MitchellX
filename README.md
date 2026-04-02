@@ -1,13 +1,11 @@
 ## Hey, I'm Mingcan (Mitchell) 👋
 
-PhD @ UMass Amherst → MLE @ Adobe
-
-I build systems that make deep learning models faster and smaller — from [pruning multi-task networks](https://github.com/MitchellX/AdapMTL) to [accelerating video diffusion transformers](https://github.com/MitchellX/LightningDiT).
+I build systems that make models faster and smaller — from pruning multi-task networks to accelerating image/ video diffusion transformers.
 
 ### 🔬 Research
 
 - **Efficient Generative Models** — sparse attention, linear attention, and inference acceleration for image/video diffusion transformers
-- **Multi-Task Learning** — adaptive pruning frameworks for jointly-trained models ([AdapMTL](https://github.com/MitchellX/AdapMTL), ACM MM '24)
+- **Multi-Task Learning** — adaptive pruning frameworks for jointly-trained models
 - **Model Compression** — structured pruning, quantization, knowledge distillation
 
 ### 🤖 Power User: 8 AI Agents Working for Me 24/7
@@ -19,12 +17,3 @@ I run a fleet of 8 specialized AI agents on [OpenClaw](https://github.com/opencl
 They dispatch coding tasks to remote GPU clusters, monitor my inbox, write research reports, review PRs, and sync everything to Notion — while I sleep.
 
 > *The best AI setup isn't the smartest model — it's the best memory, tools, and orchestration around it.*
-
-### 📄 Selected Publications
-
-- **LinStat**: Sparse–Linear Attention for Diffusion Transformers — *ECCV 2026*
-- **AdapMTL**: Adaptive Pruning Framework for Multitask Learning Model — *ACM MM 2024*
-
-### 🛠️ Tech Stack
-
-`PyTorch` `CUDA` `Diffusion Models` `Transformers` `Video Generation` `HPC (Slurm)` `OpenClaw` `Claude Code` `Codex`
